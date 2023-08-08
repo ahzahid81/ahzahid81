@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Hasib Zahid  @ahzahid81
 - 👀 I’m interested in Programming, Reading Books and Academic study
-- 🌱 I’m currently learning Object Oriented Programming with python
-- I have already learned Structured programming with c, Data Structure with C++, Algorithms with C++ and OOP with Java.
+- 🌱 I’m currently learning Database Management with MySQL and Django Framework
+- I have already learned Structured programming with c, Data Structure with C++, Algorithms with C++, OOP with Java, and OOP with Python.
 
 <!---
 ahzahid81/ahzahid81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
